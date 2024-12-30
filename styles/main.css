@@ -1,0 +1,28 @@
+/*      */
+
+html, body { color: #ffffff; font-size: 16px; font-family: 'Share Tech Mono', monospace, Arial, Helvetica, Geneva, Swiss; background-color: black; vertical-align: top; margin: 0; padding: 0; border: none; height: 100%; }
+img { vertical-align: middle; }
+h0 { color: #ffffff; font-size: 28px; font-family: 'Share Tech Mono', monospace, Arial, Helvetica, Geneva, Swiss; font-weight: bold; line-height: 40px; margin: 0; padding: 0;}
+h1 { color: #ffffff; font-size: 28px; font-family: 'Share Tech Mono', monospace, Arial, Helvetica, Geneva, Swiss; font-weight: lighter; line-height: 40px; margin: 0; padding: 0; }
+h2 { color: #ffffff; font-size: 12px; font-family: 'Share Tech Mono', monospace, Arial, Helvetica, Geneva, Swiss; font-weight: normal; line-height: 22px; margin: 0; padding: 0; }
+h3 { color: #ffffff; font-size: 28px; font-family: 'Share Tech Mono', monospace, Arial, Helvetica, Geneva, Swiss; font-weight: lighter; line-height: 28px; margin: 0; padding: 0; }
+h4 { color: #ffffff; font-size: 12px; font-family: 'Share Tech Mono', monospace, Arial, Helvetica, Geneva, Swiss; font-weight: normal; line-height: 18px; margin: 0; padding: 0; }
+h5 { color: #ffffff; font-size: 12px; font-family: 'Share Tech Mono', monospace, Arial, Helvetica, Geneva, Swiss; font-weight: bold; line-height: 18px; margin: 0; padding: 0; }
+
+a.menuelementlink         { color: Cyan; font-size: 12px; font-family: 'Share Tech Mono', monospace, Arial, Helvetica, Geneva, Swiss; font-weight: normal; line-height: 22px; margin: 0; padding: 0; text-decoration: none;}
+a.menuelementlink:link    { color: Cyan; font-size: 12px; font-family: 'Share Tech Mono', monospace, Arial, Helvetica, Geneva, Swiss; font-weight: normal; line-height: 22px; margin: 0; padding: 0; text-decoration: none;}
+a.menuelementlink:visited { color: Cyan; font-size: 12px; font-family: 'Share Tech Mono', monospace, Arial, Helvetica, Geneva, Swiss; font-weight: normal; line-height: 22px; margin: 0; padding: 0; text-decoration: none;}
+a.menuelementlink:hover   { color: Cyan; font-size: 12px; font-family: 'Share Tech Mono', monospace, Arial, Helvetica, Geneva, Swiss; font-weight: normal; line-height: 22px; margin: 0; padding: 0; text-decoration: underline; }
+a.menuelementlink:active  { color: Cyan; font-size: 12px; font-family: 'Share Tech Mono', monospace, Arial, Helvetica, Geneva, Swiss; font-weight: normal; line-height: 22px; margin: 0; padding: 0; text-decoration: none;}
+
+a.footerlink         { color: Cyan; font-weight: bold; text-decoration: none;}
+a.footerlink:link    { color: Cyan; font-weight: bold; text-decoration: none;}
+a.footerlink:visited { color: Cyan; font-weight: bold; text-decoration: none;}
+a.footerlink:hover   { color: Cyan; font-weight: bold; text-decoration: underline; }
+a.footerlink:active  { color: Cyan; font-weight: bold; text-decoration: none;}
+
+li.termsofuse { color: #ffffff; font-size: 12px; font-family: 'Share Tech Mono', monospace, Arial, Helvetica, Geneva, Swiss; font-weight: normal; line-height: 18px; margin: 0; padding: 0; }
+li.privacypolicy { color: #ffffff; font-size: 12px; font-family: 'Share Tech Mono', monospace, Arial, Helvetica, Geneva, Swiss; font-weight: normal; line-height: 18px; margin: 0; padding: 0; }
+
+#footerlinks { color: #c0c0c0; font-size: 9px; font-family: Arial, Helvetica, Geneva, Swiss; font-weight: normal; line-height: 9px; margin: 0; padding: 2px; border-width: 0; }
+#copyright{ color: white; font-size: 9px; font-family: Arial, Helvetica, Geneva, Swiss; font-weight: bold; line-height: 9px; margin: 0; padding: 2px; border-width: 0; }
